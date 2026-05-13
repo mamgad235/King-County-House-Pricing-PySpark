@@ -39,4 +39,4 @@ The tuned GBT model achieved elite predictive accuracy on the hidden 20% test da
 | **3. Tuned GBT (CrossValidation)**| **$134,503** | **0.8674** |
 
 ---
-*Completed as part of the Artificial Intelligence Engineering program at Mansoura University.* *Under the supervision of Dr. Mohamed Abd Elfattah.*
+*Completed as part of the Artificial Intelligence Engineering program at Mansoura University.* 
